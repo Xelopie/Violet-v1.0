@@ -2,7 +2,6 @@
 External CSGO Multi-hack
 <br>
 Functions: 
-<br>
 1. ESP box
 2. Recoil crosshair
 3. Chams
